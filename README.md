@@ -1,2 +1,2 @@
 # rot_decryptor
-Same program but in Rust
+Simple program to decrypt shift based letter "encryption" (OLF --> HEY) but in Rust
